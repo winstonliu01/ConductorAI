@@ -21,7 +21,7 @@ each page.
 
 1.  Clone the Git repository and go into its directory
     ```
-    git clone ConductorAI
+    git clone https://github.com/winstonliu01/ConductorAI.git
     cd ConductorAI
     ```
 
